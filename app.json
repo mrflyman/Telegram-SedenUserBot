@@ -99,7 +99,7 @@
     ],
     "logo": "https://i.imgur.com/GL1yJpN.png",
     "name": "Telegram SedenBot",
-    "repository": "https://github.com/TeamDerUntergang/Telegram-SedenUserBot",
+    "repository": "https://github.com/mrflyman/Telegram-SedenUserBot",
     "stack": "container",
     "success_url": "https://telegram.dog/SedenUserBot",
     "website": "https://teamderuntergang.github.io/"
